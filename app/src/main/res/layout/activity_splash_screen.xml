@@ -48,5 +48,6 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:text="Create By M REZA ICHSANI"
+        android:textColor="@color/black"/>
 
 </RelativeLayout>
